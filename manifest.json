@@ -1,9 +1,9 @@
 {
-	"id": "rust-dojo",
-	"name": "Rust Dojo",
-	"version": "0.1.0",
-	"minAppVersion": "1.5.0",
-	"description": "Daily Rust exercises driven by a curriculum note, powered by Claude.",
-	"author": "michjadams",
-	"isDesktopOnly": false
+  "id": "rust-dojo",
+  "name": "Rust Dojo",
+  "version": "1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Daily Rust exercises driven by a curriculum note, powered by Claude.",
+  "author": "michjadams",
+  "isDesktopOnly": false
 }
